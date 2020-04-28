@@ -1,0 +1,20 @@
+Ketik seperti di bawah ini
+
+git config --global user.name "username-kamu"
+git config --global user.email "email-github-kamu"
+git config --global color.ui "true"
+
+Masih di Git Bash, ketik perintah seperti di bawah ini lalu klik enter
+ssh-keygen
+
+
+============
+= copy paste clone HTTPS tadi dengan menambahkan perintah git clone.
+git clone https://github.com/koding-indonesia/tutorial-github.git
+
+= Menambahkan file baru
+git add .
+
+= mengirim printah commit
+git commit -m "publish file index"
+
