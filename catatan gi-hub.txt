@@ -45,7 +45,7 @@ git remote add origin https://github.com/w4hyud1/ta_leni_karyawan.git
 git push -u origin master
 
 
-or create a new repository on the command line
+# or create a new repository on the command line
 echo "# w4hyud1.github.io" >> README.md
 git init
 git add README.md
@@ -53,10 +53,7 @@ git commit -m "first commit"
 git remote add origin https://github.com/w4hyud1/w4hyud1.github.io.git
 git push -u origin master
                 
+# langsung masuk ke repo github
 …or push an existing repository from the command line
 git remote add origin https://github.com/w4hyud1/w4hyud1.github.io.git
 git push -u origin master
-
-
-
-
