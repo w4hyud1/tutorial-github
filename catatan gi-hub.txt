@@ -50,3 +50,9 @@ git push -u origin master
 
 git remote add origin https://github.com/w4hyud1/tugas-akhir.git
 git push -u origin master
+
+# cek status username login
+git config user.name
+git config --list
+
+
